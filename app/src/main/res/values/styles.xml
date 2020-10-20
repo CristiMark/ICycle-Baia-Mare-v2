@@ -1,0 +1,71 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#262626</item>
+        <item name="colorPrimaryDark">#e2101010</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/cardview_light_background</item>
+    </style>
+
+    <style name="CustomShowcaseTheme2" parent="ShowcaseView">
+        <item name="sv_backgroundColor">#e51249d9</item>
+        <item name="sv_showcaseColor">#3d7fe9</item>
+        <item name="sv_buttonText">Got It</item>
+    </style>
+
+    <style name="CustomShowcaseTheme" parent="ShowcaseView.Light">
+        <item name="sv_backgroundColor">#d93d3c3c</item>
+        <item name="sv_showcaseColor">#cc4008</item>
+        <item name="sv_buttonText">Got it</item>
+        <item name="sv_tintButtonColor">false</item>
+        <item name="sv_titleTextAppearance">@style/CustomTitle</item>
+        <item name="sv_detailTextAppearance">@style/CustomText2</item>
+    </style>
+
+
+    <style name="CustomTitle" parent="TextAppearance.ShowcaseView.Title">
+        <item name="android:textColor">#cc4008</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">22sp</item>
+
+    </style>
+
+    <style name="CustomText2" parent="TextAppearance.ShowcaseView.Detail.Light">
+        <item name="android:textColor">#e98409</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="ToolbarColoredBackArrow" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlNormal">#fff</item>
+    </style>
+
+    <style name="CollapsedAppBar" parent="@style/TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+
+    <style name="Widget.CardContent" parent="android:Widget">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingTop">24dp</item>
+        <item name="android:paddingBottom">24dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <style name="menu_labels_style">
+        <item name="android:background">@drawable/fab_label_background</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>

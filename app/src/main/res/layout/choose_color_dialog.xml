@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@android:color/background_light"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/image_view_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:scaleType="fitCenter"
+        android:tag="white_btn"
+        app:srcCompat="@drawable/coll" />
+
+    <ImageView
+        android:id="@+id/image_view_areas"
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/coll_mask"
+        android:visibility="invisible" />
+</FrameLayout>

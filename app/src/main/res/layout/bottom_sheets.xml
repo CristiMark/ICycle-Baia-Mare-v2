@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="vyrus.bikegps.activity.MainActivity">
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/floating_action_button_inv_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="top|right|end"
+        android:layout_marginTop="64dp"
+        android:layout_marginRight="8dp"
+        android:onClick="routeWithNetOnClick"
+        android:visibility="invisible"
+        app:fabSize="mini" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/floating_action_button_route_with_google_map"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="top|right|end"
+        android:layout_marginTop="128dp"
+        android:layout_marginRight="8dp"
+        android:onClick="routeWithNetOnClick"
+        android:visibility="invisible"
+        app:fabSize="mini"
+        app:srcCompat="@drawable/ic_near_me_black_24dp" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/floating_action_bar_go_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:elevation="32dp"
+        android:onClick="goToTopOnClick"
+        android:paddingLeft="16dp"
+        android:paddingRight="@dimen/bottom_sheet_padding_right"
+        android:paddingBottom="@dimen/bottom_sheet_padding_bottom"
+        android:visibility="invisible"
+        app:fab_colorNormal="@color/white"
+        app:fab_size="mini"
+        app:layout_anchor="@id/nested_scroll_view_bottom_sheet"
+        app:layout_anchorGravity="top|left|end"
+        app:srcCompat="@drawable/ic_arrow_upward" />
+
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/nested_scroll_view_bottom_sheet"
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:background="@drawable/nested_scroll_view_corners"
+        android:clipToPadding="true"
+        android:hapticFeedbackEnabled="false"
+        android:isScrollContainer="false"
+        android:keepScreenOn="false"
+        android:longClickable="false"
+        android:measureAllChildren="false"
+        app:layout_behavior="android.support.design.widget.BottomSheetBehavior">
+
+        <LinearLayout
+            android:id="@+id/linear_layout_content_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/window_color"
+            android:orientation="vertical" />
+
+    </android.support.v4.widget.NestedScrollView>
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/floating_action_button_inv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:paddingLeft="16dp"
+        android:paddingRight="@dimen/bottom_sheet_padding_right"
+        android:paddingBottom="@dimen/bottom_sheet_padding_bottom"
+        android:tag="white_btn"
+        android:visibility="invisible"
+        app:fab_colorNormal="@color/white"
+        app:fab_colorPressed="@color/white_pressed"
+        app:fab_size="mini"
+        app:layout_anchor="@id/nested_scroll_view_bottom_sheet"
+        app:layout_anchorGravity="top|right|end"
+        app:menu_labels_ellipsize="end"
+        app:menu_labels_paddingBottom="@dimen/activity_vertical_margin"
+        app:menu_labels_singleLine="true" />
+
+    <com.github.clans.fab.FloatingActionMenu
+        android:id="@+id/floating_action_bar_point_of_interests"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:clickable="true"
+        android:onClick="floatingActionButtonOnClick"
+        android:paddingLeft="8dp"
+        android:paddingRight="@dimen/bottom_sheet_padding_right"
+        android:paddingBottom="@dimen/bottom_sheet_padding_bottom"
+        app:fab_size="mini"
+        app:layout_anchor="@id/nested_scroll_view_bottom_sheet"
+        app:layout_anchorGravity="top|right|end"
+        app:menu_backgroundColor="#ccffffff"
+        app:menu_colorNormal="@color/point_of_interest_all"
+        app:menu_colorPressed="@color/point_of_interest_all"
+        app:menu_icon="@mipmap/white_btn"
+        app:menu_labels_ellipsize="end"
+        app:menu_labels_paddingBottom="@dimen/activity_vertical_margin"
+        app:menu_labels_singleLine="true" />
+
+    <include layout="@layout/activity_navigation_slider" />
+</android.support.design.widget.CoordinatorLayout>
+

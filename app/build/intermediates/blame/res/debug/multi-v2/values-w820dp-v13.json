@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "1,2,3,6,12,10,11,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "17,76,120,298,685,525,600,376,451",
+                        "endColumns": "57,42,54,52,62,73,83,73,72",
+                        "endOffsets": "70,114,170,346,743,594,679,445,519"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,156,211,264,327,401,485,559",
+                        "endColumns": "57,42,54,52,62,73,83,73,72",
+                        "endOffsets": "108,151,206,259,322,396,480,554,627"
+                    }
+                }
+            ]
+        }
+    ]
+}

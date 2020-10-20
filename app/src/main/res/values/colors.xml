@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#313131</color>
+    <color name="colorPrimaryDark">#1e1e1e</color>
+    <color name="colorPrimaryLight">#585757</color>
+    <color name="colorDarkerGreen">#028008</color>
+    <color name="colorAccent">#FFFF</color>
+    <color name="window_color">#FAFAFA</color>
+
+    <color name="black">#000000</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="transparent_pressed">#80f3f5fc</color>
+    <color name="svButtonColor">#d2cc4008</color>
+    <color name="svTextButtonColor">#e98409</color>
+
+    <color name="point_of_interest_forest_icon_green">#32cd49</color>
+    <color name="point_of_interest_painting_art_icon_red">#ee1b0f</color>
+    <color name="point_of_interest_museum_icon_purple">#aa2cd3</color>
+    <color name="point_of_interest_monument_building_icon_yellow">#f7eb09</color>
+    <color name="point_of_interest_mining_science_icon_blue">#0080ff</color>
+    <color name="point_of_interest_all">#ffffff</color>
+
+    <color name="settings_draw_route_easy">#464646</color>
+    <color name="settings_draw_route_medium">#666666</color>
+    <color name="settings_draw_route_hard">#4f4f4f</color>
+    <color name="settings_draw_route_extra_hard">#606060</color>
+    <color name="settings_draw_route_red">#ff0000</color>
+
+    <color name="difficulty_color_mode_easy">#f98d46</color>
+    <color name="difficulty_color_mode_medium">#f98739</color>
+    <color name="difficulty_color_mode_hard">#ff7d2b</color>
+    <color name="difficulty_color_mode_extra_hard">#ff6400</color>
+</resources>

@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_red_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\red_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_purple_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\purple_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_extrem_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\extrem_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_white_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\white_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_sponsor.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_sponsor.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottomsheet_content.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\layout\\bottomsheet_content.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_navigation_slider.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\layout\\app_bar_navigation_slider.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_green_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\green_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_blue_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\blue_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fab_label_background.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\fab_label_background.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_red_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\red_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_red_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\red_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_sponsor.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\ic_sponsor.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_hard_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\hard_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_near_me_black_24dp.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\ic_near_me_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_hard.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\hard.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_purple_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\purple_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_photo.jpg.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\photo.jpg"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_light_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\light_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_sponsor.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_sponsor.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14_activity_loading.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\layout-v14\\activity_loading.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_sponsor.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\ic_sponsor.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_purple_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\purple_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_blue_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\blue_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_upward.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\ic_arrow_upward.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_map_black_24dp.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\ic_map_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mediu_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\mediu_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sponsor1.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\sponsor1.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_choose_color_dialog.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\layout\\choose_color_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_back_black_24dp.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\ic_arrow_back_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_muntomanii.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable-v21\\muntomanii.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info_black_24dp.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_extrem_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\extrem_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_mediu_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\mediu_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_helper_container_pic_one.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\helper_container_pic_one.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help_contain_pic_two.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\help_contain_pic_two.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\raw_mapjust.geojson.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\raw\\mapjust.geojson"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_extrem_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\extrem_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_light_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\light_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_directions_bike_black_24dp.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\ic_directions_bike_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_about_text.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_about_text.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_hard_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\hard_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_muntomanii.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\muntomanii.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_navigation_slider_drawer.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\menu\\activity_navigation_slider_drawer.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_light_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\light_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mediu_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\mediu_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_muntomanii.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\muntomanii.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_sponsor_fragm.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\layout\\sponsor_fragm.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_icon.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sponsor2.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\sponsor2.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circular_progress_bar.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\circular_progress_bar.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_junk_cardview_google.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\layout\\junk_cardview_google.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_blue_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\blue_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mediu_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\mediu_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_navigation_slider.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\layout\\nav_header_navigation_slider.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_go_with_net_gps.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\layout\\go_with_net_gps.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_navigate_to_drop_shadow.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\navigate_to_drop_shadow.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_hard_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\hard_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_arrow_black.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\ic_play_arrow_black.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_popup_photo_full.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\layout\\popup_photo_full.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation_slider.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\menu\\navigation_slider.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_light.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\light.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sponsor1my.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\sponsor1my.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_icon.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_yellow_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\yellow_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_about_text.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\ic_about_text.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_about_text.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_about_text.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help_container_pic_three.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\help_container_pic_three.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_light.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\light.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_help_container_pic_four.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\help_container_pic_four.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_about_text.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_about_text.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_green_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\green_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_yellow_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\yellow_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_hard_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\hard_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_white_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\white_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_mediu.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\mediu.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_light.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\light.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator_selected.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\tab_indicator_selected.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_muntomanii.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\muntomanii.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_yellow_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\yellow_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_icon.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\ic_icon.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sponsor2my.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\sponsor2my.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_navigation_slider.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\layout\\content_navigation_slider.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_navigation_button.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\ic_navigation_button.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_yellow_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\yellow_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_green_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\green_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_green_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\green_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_mediu.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\mediu.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_hard.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\hard.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_white_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\white_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_muntomanii.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\muntomanii.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_hard.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\hard.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_white_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\white_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_hard.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\hard.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_mediu.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\mediu.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_white_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\white_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_hard_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\hard_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_muntomanii.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\muntomanii.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_yellow_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\yellow_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_about_text.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\ic_about_text.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheets.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\layout\\bottom_sheets.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_purple_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\purple_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_light.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\light.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_purple_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\purple_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_green_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\green_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_button.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_indicator_default.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\tab_indicator_default.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_light_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\light_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_terrain_black_24dp.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\ic_terrain_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_blue_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\blue_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_traffic_black_24dp.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\ic_traffic_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_navigation_slider.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\layout\\activity_navigation_slider.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date_range_black_24dp.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\ic_date_range_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coll.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\coll.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_red_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\red_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_live_help_black_24dp.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\ic_live_help_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_hard.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\hard.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_icon.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\ic_icon.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_red_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\red_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nested_scroll_view_corners.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\nested_scroll_view_corners.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_light_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\light_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coll_mask.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\coll_mask.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v14_sv_custom_button.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\layout-v14\\sv_custom_button.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_extrem_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\extrem_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_satellite_black_24dp.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\ic_satellite_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_icon.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_icon.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_mediu_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\mediu_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_mediu.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\mediu.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_extrem_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxhdpi\\extrem_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_sponsor.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_sponsor.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_mediu.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-hdpi\\mediu.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_selector.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_green_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-mdpi\\green_btn.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_light.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xhdpi\\light.png"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_bottom.xml.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\drawable\\border_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_blue_btn.png.flat",
+        "source": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\blue_btn.png"
+    }
+]

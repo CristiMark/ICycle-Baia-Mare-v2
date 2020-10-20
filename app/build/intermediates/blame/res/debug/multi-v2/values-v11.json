@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android-Project\\ICycle-Baia-Mare-v2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Cristi Mark\\.gradle\\caches\\transforms-2\\files-2.1\\f359e1a4ae2eeaf4b071b0f8fbb3b354\\play-services-appinvite-9.4.0\\res\\values-v11\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "219",
+                        "endColumns": "117",
+                        "endOffsets": "332"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "117",
+                        "endOffsets": "168"
+                    }
+                }
+            ]
+        }
+    ]
+}

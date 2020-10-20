@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r= BD:F5:8C:C1:32:43:BE:0E:3D:31:89:CE:CA:FB:C2:06:26:2C:79:CD;vyrus.bikegps
+
+    You can also add your credentials to an existing key, using this line:
+    28:92:F8:42:94:6D:09:93:58:AC:0E:14:05:45:2D:BB:20:74:D9:9A;vyrus.bikegps
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBXjmary06AUqkxhaqh8i-kXJBuNnD1bXU</string>
+</resources>

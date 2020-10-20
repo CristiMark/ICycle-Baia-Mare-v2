@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single" />
+    <group
+        android:id="@+id/menu_bottom"
+        android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_date_range_black_24dp"
+            android:title="@string/item_cultural_events" />
+    </group>
+
+    <group
+        android:id="@+id/menu_site"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_address"
+            android:icon="@mipmap/muntomanii"
+            android:title="@string/muntzomani_web_site" />
+    </group>
+    <item
+        android:id="@+id/item_set_route_difficulty"
+        android:title="@string/item_set_route_difficulty_recommendation">
+        <menu>
+            <item
+                android:id="@+id/nav_easy"
+                android:icon="@mipmap/light"
+                android:title="@string/item_set_route_difficulty_light" />
+            <item
+                android:id="@+id/nav_mediu"
+                android:icon="@mipmap/mediu"
+                android:title="@string/item_set_route_difficulty_medium" />
+            <item
+                android:id="@+id/nav_hard"
+                android:icon="@mipmap/hard"
+                android:title="@string/item_set_route_difficulty_hard" />
+            <item
+                android:id="@+id/nav_extra_hard"
+                android:icon="@mipmap/hard"
+                android:title="@string/item_set_route_difficulty_extra_hard" />
+        </menu>
+    </item>
+
+</menu>
